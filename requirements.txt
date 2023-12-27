@@ -1,0 +1,6 @@
+altair==4.1.0
+beautifulsoup4==4.9.3
+joblib==1.0.1
+pandas==1.2.3
+requests==2.25.1
+streamlit==0.81.1
